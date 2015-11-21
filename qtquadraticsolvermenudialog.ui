@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>420</width>
-    <height>355</height>
+    <height>331</height>
    </rect>
   </property>
   <property name="font">
@@ -63,7 +63,7 @@ QPushButton { font: 48px, &quot;monospace&quot; }</string>
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap resource="ToolQuadraticSolver.qrc">:/ToolQuadraticSolver/images/ToolQuadraticSolverFormula.png</pixmap>
+      <pixmap resource="QuadraticSolver.qrc">:/QuadraticSolver/images/QuadraticSolverFormula.svg</pixmap>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
@@ -78,7 +78,7 @@ QPushButton { font: 48px, &quot;monospace&quot; }</string>
   <tabstop>button_quit</tabstop>
  </tabstops>
  <resources>
-  <include location="ToolQuadraticSolver.qrc"/>
+  <include location="QuadraticSolver.qrc"/>
  </resources>
  <connections/>
 </ui>
