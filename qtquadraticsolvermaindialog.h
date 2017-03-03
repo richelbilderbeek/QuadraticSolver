@@ -26,10 +26,6 @@ protected:
 private:
   Ui::QtQuadraticSolverMainDialog *ui;
 
-  #ifndef NDEBUG
-  static void Test() noexcept;
-  #endif
-
 private slots:
   void on_box_a_valueChanged(double arg1);
   void on_box_b_valueChanged(double arg1);

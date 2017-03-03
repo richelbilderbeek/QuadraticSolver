@@ -26,9 +26,6 @@ protected:
 private:
   Ui::QtQuadraticSolverMenuDialog *ui;
 
-  #ifndef NDEBUG
-  static void Test() noexcept;
-  #endif
 
 private slots:
   void on_button_about_clicked();
