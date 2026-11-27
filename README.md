@@ -1,10 +1,8 @@
 # QuadraticSolver
 
-[Go to the nicely rendered website](https://richelbilderbeek.github.io/QuadraticSolver/).
+[![Codecov](https://codecov.io/gh/richelbilderbeek/QuadraticSolver/branch/main/graph/badge.svg)](https://codecov.io/gh/richelbilderbeek/QuadraticSolver)
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo](Codecov.png)](https://www.codecov.io)
----|---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/QuadraticSolver.svg?branch=master)](https://travis-ci.org/richelbilderbeek/QuadraticSolver)|[![codecov.io](https://codecov.io/github/richelbilderbeek/QuadraticSolver/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/QuadraticSolver/branch/master)
+[Go to the nicely rendered website](https://richelbilderbeek.github.io/QuadraticSolver/).
 
 Tool to solve a quadratic equation using the C++ Qt library.
 
